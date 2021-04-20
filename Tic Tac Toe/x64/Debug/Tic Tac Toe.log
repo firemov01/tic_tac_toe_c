@@ -1,0 +1,11 @@
+﻿  Game.cpp
+C:\Users\ionut\source\repos\Tic Tac Toe\Tic Tac Toe\Game.cpp(234,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ionut\source\repos\Tic Tac Toe\Tic Tac Toe\Game.cpp(234,53): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
